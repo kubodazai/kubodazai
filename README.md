@@ -1,16 +1,14 @@
-## Hi there 👋
+# Я — початківець у розробці ігор та ПЗ 🎮
 
-<!--
-**kubodazai/kubodazai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я навчаюся на спеціальності *Інженерія програмного забезпечення* та сам розвиваюся у сфері розробки відеоігор.
+### 💻 Мій технічний стек
 
-Here are some ideas to get you started:
+* **Мови програмування:** `C#` (основна мова для розробки ігор), `C++` (вивчаю для глибокого розуміння роботи з пам'яттю та алгоритмів).
+* **Ігрові рушії:** `Unity`
+* **Графіка та дизайн:** `Aseprite`
+* **Інструменти:** `Git`, `GitHub`, `Visual Studio Code`
+* ### 🚀 Мої поточні цілі та проєкти
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Створення власного 2D-платформера на **Unity** з використанням *Pixel Perfect* графіки.
+2. Поглиблене вивчення архітектурних патернів (State Machine, Object Pooling, MVP).
+3. Написання чистого та оптимізованого коду на `C#` та `C++`.
